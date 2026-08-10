@@ -10,6 +10,11 @@
 
 </div>
 
+
+
+
+> **My goal is simple:** understand healthcare problems deeply, then use technology to solve them.
+
 ### **🔷 Currently Learning**
 
 🔹 **Python**  
