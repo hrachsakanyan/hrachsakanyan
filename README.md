@@ -1,6 +1,6 @@
 ## **🔷 About Me**
 
-👋 Hi, I'm Hrach
+Hi, I'm Hrach
 
 🩺 I’m a **General Practitioner** with a growing background in software development and a strong interest in **Artificial Intelligence and Machine Learning**.
 
