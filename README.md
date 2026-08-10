@@ -20,7 +20,7 @@
 - 📊 **Data Analysis**
 - 🧮 **Mathematics for Machine Learning**
 
-**My Focus**
+### **My Focus**
 
 🩺 **AI × Medicine × Software Engineering**
 
