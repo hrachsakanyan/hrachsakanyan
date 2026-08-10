@@ -1,15 +1,14 @@
 ## **🔷 About Me**
 
-🔹 Hi, I'm Hrach
+<div style="margin-left: 0;">
 
-🔹 I’m a **General Practitioner** with a growing background in software development and a strong interest in **Artificial Intelligence and Machine Learning**.
+<div>🔹&nbsp;&nbsp;Hi, I'm Hrach</div>
+<div>🔹&nbsp;&nbsp;I’m a <strong>General Practitioner</strong> with a growing background in software development and a strong interest in <strong>Artificial Intelligence and Machine Learning</strong>.</div>
+<div>🔹&nbsp;&nbsp;I work with <strong>Python</strong> and am currently deepening my knowledge of <strong>Machine Learning, Databases, and SQL</strong>.</div>
+<div>🔹&nbsp;&nbsp;My goal is to bridge the gap between <strong>clinical medicine and modern technology</strong> by building intelligent, practical solutions that can help healthcare professionals make better decisions and ultimately improve patient outcomes.</div>
+<div>🔹&nbsp;&nbsp;What makes my journey different is the combination of <strong>clinical knowledge and technical skills</strong>. My medical background helps me understand healthcare problems from the inside — not just as technical challenges, but as real-world problems that affect doctors and patients.</div>
 
-🔹 I work with **Python** and am currently deepening my knowledge of **Machine Learning, Databases, and SQL**.
-
-🔹 My goal is to bridge the gap between **clinical medicine and modern technology** by building intelligent, practical solutions that can help healthcare  professionals make better decisions and ultimately improve patient outcomes.
-
-🔹 What makes my journey different is the combination of **clinical knowledge and technical skills**. My medical background helps me understand healthcare problems from the inside — not just as technical challenges, but as real-world problems that affect doctors and patients.
-> **My goal is simple:** understand healthcare problems deeply, then use technology to solve them.
+</div>
 
 ### **Currently Learning**
 
