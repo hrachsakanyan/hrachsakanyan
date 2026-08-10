@@ -22,7 +22,7 @@
 
 ### **My Focus**
 
-🩺 **AI × Medicine × Software Engineering**
+**AI × Medicine × Software Engineering**
 
 🚀 I’m interested in developing technologies that connect clinical knowledge with data and intelligent systems — with the long-term goal of contributing to the future of **AI-powered healthcare**.
 
