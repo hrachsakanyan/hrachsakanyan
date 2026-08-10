@@ -14,11 +14,11 @@
 
 **🧠 Currently Learning**
 
-🐍 **Python**
-🤖 **Machine Learning**
-🗄️ **Databases & SQL**
-📊 **Data Analysis**
-🧮 **Mathematics for Machine Learning**
+- 🐍 **Python**
+- 🤖 **Machine Learning**
+- 🗄️ **Databases & SQL**
+- 📊 **Data Analysis**
+- 🧮 **Mathematics for Machine Learning**
 
 **🎯 My Focus**
 
