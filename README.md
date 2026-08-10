@@ -6,11 +6,10 @@
 
 🔹 I work with **Python** and am currently deepening my knowledge of **Machine Learning, Databases, and SQL**.
 
-🔹 My goal is to bridge the gap between **clinical medicine and modern technology** by building intelligent, practical solutions that can help healthcare professionals make better decisions and ultimately improve patient outcomes.
+🔹 My goal is to bridge the gap between **clinical medicine and modern technology** by building intelligent, practical solutions that can help healthcare  professionals make better decisions and ultimately improve patient outcomes.
 
 🔹 What makes my journey different is the combination of **clinical knowledge and technical skills**. My medical background helps me understand healthcare problems from the inside — not just as technical challenges, but as real-world problems that affect doctors and patients.
-
-**My goal is simple: understand healthcare problems deeply, then use technology to solve them.**
+> **My goal is simple:** understand healthcare problems deeply, then use technology to solve them.
 
 ### **Currently Learning**
 
