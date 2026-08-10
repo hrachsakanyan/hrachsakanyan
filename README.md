@@ -21,7 +21,7 @@
 
 ### **🔷 My Focus**
 
-**AI × Medicine × Software Engineering**
+**AI for Healthcare & Software Engineering**
 
 I’m interested in developing technologies that connect clinical knowledge with data and intelligent systems — with the long-term goal of contributing to the future of **AI-powered healthcare**.
 > **My goal is simple:** understand healthcare problems deeply, then use technology to solve them.
