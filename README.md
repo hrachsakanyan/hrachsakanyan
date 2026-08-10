@@ -18,7 +18,7 @@
 - 🤖 **Machine Learning**
 - 🗄️ **Databases & SQL**
 - 📊 **Data Analysis**
-- 🧮 **Mathematics for Machine Learning**
+- 🧮 **Mathematics for Machine Learning** 
 
 ### **My Focus**
 
