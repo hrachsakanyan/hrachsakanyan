@@ -2,8 +2,6 @@
 
 👋 Hi, I'm Hrach
 
-**🩺 Physician → 💻 Developer → 🤖 AI/ML in Healthcare**
-
 🩺 I’m a **General Practitioner** with a growing background in software development and a strong interest in **Artificial Intelligence and Machine Learning**.
 
 🐍 I work with **Python** and am currently deepening my knowledge of **Machine Learning, Databases, and SQL**.
