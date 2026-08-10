@@ -12,7 +12,7 @@
 
 **My goal is simple: understand healthcare problems deeply, then use technology to solve them.**
 
-**🧠 Currently Learning**
+**Currently Learning**
 
 - 🐍 **Python**
 - 🤖 **Machine Learning**
@@ -20,7 +20,7 @@
 - 📊 **Data Analysis**
 - 🧮 **Mathematics for Machine Learning**
 
-**🎯 My Focus**
+**My Focus**
 
 🩺 **AI × Medicine × Software Engineering**
 
