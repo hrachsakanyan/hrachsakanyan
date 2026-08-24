@@ -26,18 +26,17 @@ I’m interested in developing technologies that connect clinical knowledge with
 
 ### 🔷 Tech Stack
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
+**Languages**
+<br/>
 <img src="https://img.shields.io/badge/Python-%230B1F3A.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-%230B1F3A.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-%230B1F3A.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-%230B1F3A.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-%230B1F3A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-%230B1F3A.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-</p>
 
-<p align="center"><b>Data Science & Machine Learning</b></p>
-<p align="center">
+**Data Science & Machine Learning**
+<br/>
 <img src="https://img.shields.io/badge/NumPy-%230B1F3A.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-%230B1F3A.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-%230B1F3A.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -50,20 +49,18 @@ I’m interested in developing technologies that connect clinical knowledge with
 <img src="https://img.shields.io/badge/MLflow-%230B1F3A.svg?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-%230B1F3A.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/NVIDIA%20CUDA-%230B1F3A.svg?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
 
-<p align="center"><b>Backend & Databases</b></p>
-<p align="center">
+**Backend & Databases**
+<br/>
 <img src="https://img.shields.io/badge/FastAPI-%230B1F3A.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-%230B1F3A.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-%230B1F3A.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jinja-%230B1F3A.svg?style=for-the-badge&logo=jinja&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-%230B1F3A.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-%230B1F3A.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
 
-<p align="center"><b>Dev Tools & Infrastructure</b></p>
-<p align="center">
+**Dev Tools & Infrastructure**
+<br/>
 <img src="https://img.shields.io/badge/Git-%230B1F3A.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-%230B1F3A.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-%230B1F3A.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -74,14 +71,12 @@ I’m interested in developing technologies that connect clinical knowledge with
 <img src="https://img.shields.io/badge/Windows%20Terminal-%230B1F3A.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Insomnia-%230B1F3A.svg?style=for-the-badge&logo=insomnia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-%230B1F3A.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
-</p>
 
-<p align="center"><b>Design</b></p>
-<p align="center">
+**Design**
+<br/>
 <img src="https://img.shields.io/badge/Figma-%230B1F3A.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%230B1F3A.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Airbnb-%230B1F3A.svg?style=for-the-badge&logo=Airbnb&logoColor=white"/>
-</p>
 
 ### 🔷 GitHub Stats
 <table>
@@ -102,4 +97,3 @@ I’m interested in developing technologies that connect clinical knowledge with
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrachsakanyan&icon=0&color=191970&style=flat-square"/>
 </p>
-
