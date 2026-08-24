@@ -63,20 +63,21 @@ I’m interested in developing technologies that connect clinical knowledge with
 ![Grafana](https://img.shields.io/badge/Grafana-%230B1F3A.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%230B1F3A.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
+
 ### 🔷 GitHub Stats
 
 <table>
 <tr>
 
-<td valign="top">
+<td valign="top" width="450">
 
 <img src="https://github-readme-stats.shion.dev/api?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false" width="450"/>
 
 </td>
 
-<td valign="top">
+<td valign="top" width="450">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450"/>
 
 </td>
 
@@ -86,7 +87,7 @@ I’m interested in developing technologies that connect clinical knowledge with
 
 <td colspan="2" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrachsakanyan&bg_color=0D1B2A&color=C9D6E3&line=191970&point=607FC7&area=true&hide_border=true&custom_title=Contribution%20Activity&height=280" width="750"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrachsakanyan&bg_color=0D1B2A&color=C9D6E3&line=191970&point=607FC7&area=true&hide_border=true&custom_title=Contribution%20Activity&height=280" width="900"/>
 
 </td>
 
