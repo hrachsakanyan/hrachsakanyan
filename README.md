@@ -63,16 +63,30 @@ I’m interested in developing technologies that connect clinical knowledge with
 ![Grafana](https://img.shields.io/badge/Grafana-%230B1F3A.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%230B1F3A.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
+### 🔷 GitHub Stats
 
-### 🔷 GitHub stats:
+<table>
+<tr>
 
-![](https://github-readme-stats.shion.dev/api?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<td valign="top">
 
-![](https://streak-stats.demolab.com/?user=hrachsakanyan&background=0D1B2A&ring=191970&fire=191970&currStreakLabel=FFFFFF&sideLabels=C9D6E3&dates=8899A6&sideNums=FFFFFF&currStreakNum=FFFFFF&border=191970)<br/>
+<img src="https://github-readme-stats.shion.dev/api?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false" width="450"/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=hrachsakanyan&icon=0&color=191970)](https://visitcount.itsvg.in)
+<img src="https://streak-stats.demolab.com/?user=hrachsakanyan&background=0D1B2A&ring=191970&fire=191970&currStreakLabel=FFFFFF&sideLabels=C9D6E3&dates=8899A6&sideNums=FFFFFF&currStreakNum=FFFFFF&border=191970" width="450"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</td>
+
+<td valign="top">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrachsakanyan&icon=0&color=191970&style=flat-square"/>
+</p>
