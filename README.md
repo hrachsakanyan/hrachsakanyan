@@ -70,17 +70,13 @@ I’m interested in developing technologies that connect clinical knowledge with
 
 ### 🔷 GitHub stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&include_all_commits=false&count_private=false&layout=compact" height="180"/>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hrachsakanyan&background=0D1B2A&ring=191970&fire=191970&currStreakLabel=FFFFFF&sideLabels=C9D6E3&dates=8899A6&sideNums=FFFFFF&currStreakNum=FFFFFF&border=191970" height="180"/>
-</p>
+![](https://streak-stats.demolab.com/?user=hrachsakanyan&background=0D1B2A&ring=191970&fire=191970&currStreakLabel=FFFFFF&sideLabels=C9D6E3&dates=8899A6&sideNums=FFFFFF&currStreakNum=FFFFFF&border=191970)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=hrachsakanyan&icon=0&color=191970)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hrachsakanyan&label=Profile%20Views&color=191970&style=flat-square" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
