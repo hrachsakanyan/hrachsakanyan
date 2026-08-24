@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="b9dc0d33-5079-4898-a6c8-e095287bd321.jpg" width="100%" alt="Profile Banner">
-</div>
-
 ### **🔷 About me**
 
 <div>🔹&nbsp;&nbsp;Hi, I'm Hrach</div>
