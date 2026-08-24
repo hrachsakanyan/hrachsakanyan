@@ -72,15 +72,21 @@ I’m interested in developing technologies that connect clinical knowledge with
 
 <img src="https://github-readme-stats.shion.dev/api?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false" width="450"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=hrachsakanyan&background=0D1B2A&ring=191970&fire=191970&currStreakLabel=FFFFFF&sideLabels=C9D6E3&dates=8899A6&sideNums=FFFFFF&currStreakNum=FFFFFF&border=191970" width="450"/>
-
 </td>
 
 <td valign="top">
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hrachsakanyan&bg_color=0D1B2A&title_color=FFFFFF&text_color=C9D6E3&icon_color=191970&border_color=191970&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrachsakanyan&bg_color=0D1B2A&color=C9D6E3&line=191970&point=607FC7&area=true&hide_border=true&custom_title=Contribution%20Activity&height=280" width="750"/>
 
 </td>
 
